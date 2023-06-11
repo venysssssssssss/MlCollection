@@ -22,7 +22,7 @@ In this repository you will find tutorials and projects related to Machine Learn
 	- [Beginner Tutorials](#beginner-tutorials)
 	- [Architectures](#CNN-Architectures)
 
-## Machine Learning
+## Machine Learning.
 * [![Youtube Link][logo]](https://youtu.be/pCCUnoes1Po) &nbsp; [Linear Regression](https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/algorithms/linearregression/linear_regression_gradient_descent.py) **- With Gradient Descent** :white_check_mark: 
 * [![Youtube Link][logo]](https://youtu.be/DQ6xfe75CDk) &nbsp; [Linear Regression](https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/algorithms/linearregression/linear_regression_normal_equation.py) **- With Normal Equation** :white_check_mark:
 * [![Youtube Link][logo]](https://youtu.be/x1ez9vi611I) &nbsp; [Logistic Regression](https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/algorithms/logisticregression/logistic_regression.py)
